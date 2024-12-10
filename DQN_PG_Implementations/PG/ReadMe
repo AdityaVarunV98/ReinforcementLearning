@@ -1,0 +1,7 @@
+PG.py: Contains the code to run the PG algorithm
+
+plotting_grad.py: Code to plot the gradient magnitude vs the epoch
+plotting.py: Code to plot the reward vs epoch
+
+Data: Contains the rewards and the saved models
+Plots: Contains the plots

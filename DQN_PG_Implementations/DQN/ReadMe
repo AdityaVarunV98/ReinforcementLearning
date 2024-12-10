@@ -1,0 +1,12 @@
+DQN_Car.py: Contains the model training code for the moutain car
+DQN_pong.py: Contains the model training code for the pong environment
+
+Q_Models.py: Contains the DQN neural networks for the different environments
+modifiedReward.py: Contains the modified reward functions for the mountain car
+car_actions.py: Contains code to plot the actions taken by the car given the state
+DQN_Car_Hyp.py: Contains code to plot the different values for exploration rate
+mountain_car_test.py: Contains the code to test mountain car models
+
+Data: Folder contain data used to plot the graphs
+Plots: Folder containing the plots
+SavedModels: Folder containing the saved pytorch models
